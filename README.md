@@ -101,6 +101,14 @@ const developer = {
 </div>
 
 ---
+### ⏱️ WakaTime & Activity
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ASHEN-IX&theme=tokyonight" alt="Profile Summary" height="200"/>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@ASHEN-IX&layout=compact&theme=tokyonight" alt="WakaTime Stats" />
+
+</p>
+
+---
 
 ## 📫 Let's Connect!
 
