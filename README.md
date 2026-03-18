@@ -38,19 +38,10 @@ const developer = {
 
 ---
 
-## 🔹 GitHub Stats & Streak
-![GitHub Stats](https://github-readme-stats-kappa-ten.vercel.app/api?username=ASHEN-IX&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&custom_title=GitHub%20Stats)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ASHEN-IX&theme=dracula)
----
-
-
-
-## 🔹 Contribution Graph
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ASHEN-IX&theme=dracula&hide_border=false&area=true&custom_title=Contribution%20Graph)
-
-
-
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ASHEN-IX&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ASHEN-IX&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ASHEN-IX&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
 ---
