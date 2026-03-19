@@ -106,7 +106,6 @@ const developer = {
 <div align="center">
   
   [![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://instagram.com/med.aziz.kammoun)
-  [![Discord](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge)](https://discord.gg/yourdiscord)
   [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:kammounaziz12@gmail.com)
   [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/mohamed-aziz-kammoun-6424ba195/))
 
@@ -114,18 +113,11 @@ const developer = {
 
 ---
 
-## 💼 Featured Projects
-
-<div align="center">
-  
-  [![SoundController](https://github-readme-stats.vercel.app/api/pin/?username=ASHEN-IX&repo=SoundController)](https://github.com/ASHEN-IX/SoundController)
-  [![code-review-buddy](https://github-readme-stats.vercel.app/api/pin/?username=ASHEN-IX&repo=code-review-buddy)](https://github.com/ASHEN-IX/code-review-buddy)
-  [![harry-potter-sorting-ceremony](https://github-readme-stats.vercel.app/api/pin/?username=ASHEN-IX&repo=harry-potter-sorting-ceremony)](https://github.com/ASHEN-IX/harry-potter-sorting-ceremony)
-  [![hikma-learn](https://github-readme-stats.vercel.app/api/pin/?username=ASHEN-IX&repo=hikma-learn)](https://github.com/ASHEN-IX/hikma-learn)
-  [![e-krini](https://github-readme-stats.vercel.app/api/pin/?username=ASHEN-IX&repo=e-krini)](https://github.com/ASHEN-IX/e-krini)
-  [![ConvoSummarizer](https://github-readme-stats.vercel.app/api/pin/?username=ASHEN-IX&repo=ConvoSummarizer)](https://github.com/ASHEN-IX/ConvoSummarizer)
-
-</div>
+---
+## 🧑‍💻 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ASHEN-IX&label=PROFILE+VIEWS&color=blueviolet&style=flat-square" />
+</p>
 
 ---
 
@@ -138,3 +130,5 @@ const developer = {
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
   
 </div>
+
+
