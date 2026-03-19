@@ -96,9 +96,8 @@ const developer = {
 
 ## 📈 Contribution Stats
 
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=ASHEN-IX&limit=5&theme=dracula&combine_all_yearly_contributions=true" />
-</div>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ASHEN-IX&theme=tokyo-night)
+
 
 ---
 
