@@ -125,7 +125,7 @@ const developer = {
   
   ### ⭐ "Code is like humor. When you have to explain it, it's bad." - Cory House
   
-  **Thanks for visiting! Don't forget to ⭐ some repositories if you find them interesting!**
+  **Thanks for visiting! Don't forget to ⭐ some repositories if you find them interesting**
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
   
