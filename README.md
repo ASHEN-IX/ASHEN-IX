@@ -60,10 +60,7 @@ const developer = {
 <img src="https://skillicons.dev/icons?i=nodejs,django,nestjs,firebase,mongodb,mysql" />
 
 ### 🛠️ Tools & Technologies
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vercel" />
-
-### 🎨 Design & Creative
-<img src="https://skillicons.dev/icons?i=figma,ps,ai,ae,pr" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vercel" /
 
 ### 🤖 AI/ML & Hardware
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,huggingface,esp32" />
@@ -110,8 +107,6 @@ const developer = {
   [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/mohamed-aziz-kammoun-6424ba195/))
 
 </div>
-
----
 
 ---
 ## 🧑‍💻 Profile Views
