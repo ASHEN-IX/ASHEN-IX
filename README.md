@@ -22,7 +22,7 @@ const developer = {
     code: ["JavaScript", "TypeScript", "Python", "Java","C"],
     technologies: {
         frontEnd: ["React", "HTML5", "CSS3", "Bootstrap","NextJS"],
-        backEnd: ["Node.js", "Django","NestJS", "espressJS"],
+        backEnd: ["Node.js", "Django","NestJS", "espressJS", "Fastify","Flask"],
         databases: ["MongoDB", "MySQL","PostgreSQL"],
         devOps: ["Docker", "Git", "Linux"],
         design: ["Adobe Creative Suite", "Figma"],
