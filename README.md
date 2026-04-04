@@ -60,7 +60,7 @@ const developer = {
 <img src="https://skillicons.dev/icons?i=nodejs,django,nestjs,firebase,mongodb,mysql" />
 
 ### 🛠️ Tools & Technologies
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vercel" /
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vercel" />
 
 ### 🤖 AI/ML & Hardware
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,huggingface,esp32" />
