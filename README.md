@@ -63,7 +63,7 @@ const developer = {
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vercel" />
 
 ### 🤖 AI/ML & Hardware
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,huggingface,esp32" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,huggingface,arduino" width="300" />
 
 </div>
 
