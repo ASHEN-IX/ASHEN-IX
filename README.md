@@ -41,11 +41,7 @@ const developer = {
 
   <img src="https://github-readme-stats.vercel.app/api?username=ASHEN-IX&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
-  <br />
-
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ASHEN-IX&theme=dark&hide_border=true" alt="GitHub Streak" />
-
-  <br />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASHEN-IX&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 
@@ -103,17 +99,13 @@ const developer = {
 
 <div align="center">
 
-  <img src="./profile-summary-card-output/2077/0-profile-details.svg" alt="Profile Details" />
+  <img src="https://profile-summary-cards.vercel.app/api/cards/stats?username=ASHEN-IX&theme=dark" alt="Stats Card" />
 
-  <br />
+  <img src="https://profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ASHEN-IX&theme=dark" alt="Repos Per Language" />
 
-  <img src="./profile-summary-card-output/2077/1-repos-per-language.svg" alt="Repositories Per Language" width="48%" />
-  <img src="./profile-summary-card-output/2077/2-most-commit-language.svg" alt="Most Commit Language" width="48%" />
+  <img src="https://profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ASHEN-IX&theme=dark" alt="Most Commit Language" />
 
-  <br />
-
-  <img src="./profile-summary-card-output/2077/3-stats.svg" alt="Statistics" width="48%" />
-  <img src="./profile-summary-card-output/2077/4-productive-time.svg" alt="Productive Time" width="48%" />
+  <img src="https://profile-summary-cards.vercel.app/api/cards/productive-time?username=ASHEN-IX&theme=dark" alt="Productive Time" />
 
 </div>
 
@@ -123,7 +115,7 @@ const developer = {
 
 <div align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ASHEN-IX&theme=tokyo-night" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ASHEN-IX&theme=dark" alt="GitHub Activity Graph" />
 
 </div>
 
@@ -147,7 +139,7 @@ const developer = {
 
 <div align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=ASHEN-IX&label=PROFILE+VIEWS&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ASHEN-IX&label=PROFILE+VIEWS&color=blueviolet&style=flat-square&theme=dark" alt="Profile Views" />
 
 </div>
 
