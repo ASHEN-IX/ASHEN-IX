@@ -39,11 +39,11 @@ const developer = {
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=ASHEN-IX&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ASHEN-IX&theme=dark&hide_border=true" alt="GitHub Stats" />
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ASHEN-IX&theme=dark&hide_border=true" alt="GitHub Streak" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASHEN-IX&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASHEN-IX&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
 
 </div>
 
@@ -99,13 +99,17 @@ const developer = {
 
 <div align="center">
 
-  <img src="https://profile-summary-cards.vercel.app/api/cards/stats?username=ASHEN-IX&theme=dark" alt="Stats Card" />
+  <img src="./profile-summary-card-output/2077/0-profile-details.svg" alt="Profile Details" />
 
-  <img src="https://profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ASHEN-IX&theme=dark" alt="Repos Per Language" />
+  <br />
 
-  <img src="https://profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ASHEN-IX&theme=dark" alt="Most Commit Language" />
+  <img src="./profile-summary-card-output/2077/1-repos-per-language.svg" alt="Repositories Per Language" width="48%" />
+  <img src="./profile-summary-card-output/2077/2-most-commit-language.svg" alt="Most Commit Language" width="48%" />
 
-  <img src="https://profile-summary-cards.vercel.app/api/cards/productive-time?username=ASHEN-IX&theme=dark" alt="Productive Time" />
+  <br />
+
+  <img src="./profile-summary-card-output/2077/3-stats.svg" alt="Statistics" width="48%" />
+  <img src="./profile-summary-card-output/2077/4-productive-time.svg" alt="Productive Time" width="48%" />
 
 </div>
 
