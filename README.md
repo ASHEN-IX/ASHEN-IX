@@ -41,7 +41,7 @@ const developer = {
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=ASHEN-IX&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="./profile-summary-card-output/2077/0-profile-details.svg" alt="GitHub Profile Details" />
 
   <br />
 
@@ -49,7 +49,7 @@ const developer = {
 
   <br />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASHEN-IX&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="./profile-summary-card-output/2077/3-stats.svg" alt="GitHub Statistics" width="48%" />
 
 </div>
 
@@ -61,35 +61,35 @@ const developer = {
 
 ### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,c&theme=dark" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,c" alt="Languages" />
 
 <br />
 <br />
 
 ### 🎨 Frontend
 
-<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,nextjs,vite&theme=dark" alt="Frontend Technologies" />
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,nextjs,vite" alt="Frontend Technologies" />
 
 <br />
 <br />
 
 ### ⚙️ Backend & Databases
 
-<img src="https://skillicons.dev/icons?i=nodejs,django,nestjs,express,firebase,mongodb,mysql,postgres&theme=dark" alt="Backend and Databases" />
+<img src="https://skillicons.dev/icons?i=nodejs,django,nestjs,express,firebase,mongodb,mysql,postgres" alt="Backend and Databases" />
 
 <br />
 <br />
 
 ### 🛠️ Tools & DevOps
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vercel&theme=dark" alt="Tools and DevOps" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vercel" alt="Tools and DevOps" />
 
 <br />
 <br />
 
 ### 🤖 AI/ML & Hardware
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,arduino,raspberrypi&theme=dark" alt="AI ML and Hardware" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,arduino,raspberrypi" alt="AI ML and Hardware" />
 
 </div>
 
