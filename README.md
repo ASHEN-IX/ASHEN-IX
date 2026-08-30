@@ -84,8 +84,14 @@ const developer = {
 ---
 
 ## 🏆 GitHub Trophies
-<p align="left"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=ASHEN-IX&theme=dracula" alt="ASHEN-IX" /> 
+<p align="center">
+  <img src="./profile-summary-card-output/2077/0-profile-details.svg" alt="Profile Details" />
+  <br />
+  <img src="./profile-summary-card-output/2077/1-repos-per-language.svg" alt="Repos Per Language" width="48%" />
+  <img src="./profile-summary-card-output/2077/2-most-commit-language.svg" alt="Most Commit Language" width="48%" />
+  <br />
+  <img src="./profile-summary-card-output/2077/3-stats.svg" alt="Stats" width="48%" />
+  <img src="./profile-summary-card-output/2077/4-productive-time.svg" alt="Productive Time" width="48%" />
 </p>
 
 
