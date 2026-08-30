@@ -6,6 +6,8 @@
 
   *Building the future, one line of code at a time*
 
+  <br />
+
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9146FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Creative+Problem+Solver;Always+Learning+New+Technologies)
 
 </div>
@@ -59,23 +61,35 @@ const developer = {
 
 ### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,c" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,c&theme=dark" alt="Languages" />
+
+<br />
+<br />
 
 ### 🎨 Frontend
 
-<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,nextjs,vite" alt="Frontend Technologies" />
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,nextjs,vite&theme=dark" alt="Frontend Technologies" />
+
+<br />
+<br />
 
 ### ⚙️ Backend & Databases
 
-<img src="https://skillicons.dev/icons?i=nodejs,django,nestjs,express,firebase,mongodb,mysql,postgres" alt="Backend and Databases" />
+<img src="https://skillicons.dev/icons?i=nodejs,django,nestjs,express,firebase,mongodb,mysql,postgres&theme=dark" alt="Backend and Databases" />
+
+<br />
+<br />
 
 ### 🛠️ Tools & DevOps
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vercel" alt="Tools and DevOps" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vercel&theme=dark" alt="Tools and DevOps" />
+
+<br />
+<br />
 
 ### 🤖 AI/ML & Hardware
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,arduino,raspberrypi" alt="AI ML and Hardware" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,arduino,raspberrypi&theme=dark" alt="AI ML and Hardware" />
 
 </div>
 
@@ -99,31 +113,11 @@ const developer = {
 
 ---
 
-## 🏆 Profile Summary
-
-<div align="center">
-
-  <img src="./profile-summary-card-output/2077/0-profile-details.svg" alt="Profile Details" />
-
-  <br />
-
-  <img src="./profile-summary-card-output/2077/1-repos-per-language.svg" alt="Repositories Per Language" width="48%" />
-  <img src="./profile-summary-card-output/2077/2-most-commit-language.svg" alt="Most Commit Language" width="48%" />
-
-  <br />
-
-  <img src="./profile-summary-card-output/2077/3-stats.svg" alt="Statistics" width="48%" />
-  <img src="./profile-summary-card-output/2077/4-productive-time.svg" alt="Productive Time" width="48%" />
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ASHEN-IX&theme=tokyo-night" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ASHEN-IX&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
 
 </div>
 
@@ -147,7 +141,7 @@ const developer = {
 
 <div align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=ASHEN-IX&label=PROFILE+VIEWS&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ASHEN-IX&label=PROFILE+VIEWS&color=9146FF&style=flat-square" alt="Profile Views" />
 
 </div>
 
@@ -161,6 +155,6 @@ const developer = {
 
   <br />
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9146FF&height=100&section=footer" alt="Footer" />
 
 </div>
