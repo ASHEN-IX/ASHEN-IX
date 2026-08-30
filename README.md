@@ -39,7 +39,8 @@ const developer = {
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=ASHEN-IX&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ashen-ix&amp;show_icons=true&amp;include_all_commits=true&amp;theme=onedark" alt="ashen-ix's github stats">
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ASHEN-IX&theme=dark&hide_border=true" alt="GitHub Streak" />
 
