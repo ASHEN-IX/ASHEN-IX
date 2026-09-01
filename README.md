@@ -36,17 +36,22 @@ const developer = {
 ---
 
 ## 📊 GitHub Overview
-<tbody><tr border="none">
-<td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ashen-ix&amp;show_icons=true&amp;include_all_commits=true&amp;theme=onedark" alt="ashen-ix's github stats">
-  <br><br>
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ashen-ix&amp;theme=dark&amp;hide_border=false"> 
-</td>
-<td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ashen-ix&amp;theme=dark&amp;hide_border=false&amp;no-bg=true&amp;no-frame=true&amp;langs_count=10">
-  </td>
-</tr>
-</tbody></table>
+<table>
+  <tbody>
+    <tr>
+      <!-- Left Column: Stats & Streak stacked vertically -->
+      <td width="50%" align="center" valign="top">
+        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ashen-ix&amp;show_icons=true&amp;include_all_commits=true&amp;theme=onedark" alt="ashen-ix's github stats" />
+        <br><br>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ashen-ix&amp;theme=dark&amp;hide_border=false" />
+      </td>
+      <!-- Right Column: Most Used Languages taking up the right side -->
+      <td width="50%" align="center" valign="top">
+        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ashen-ix&amp;theme=dark&amp;hide_border=false&amp;no-bg=true&amp;no-frame=true&amp;langs_count=10" alt="Most Used Languages" />
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
