@@ -39,14 +39,23 @@ const developer = {
 
 <div align="center">
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ashen-ix&amp;show_icons=true&amp;include_all_commits=true&amp;theme=onedark" alt="ashen-ix's github stats">
+
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ASHEN-IX&theme=dark&hide_border=true" alt="GitHub Streak" />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASHEN-IX&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
 
 </div>
+<td width="50%" align="center">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ashen-ix&amp;show_icons=true&amp;include_all_commits=true&amp;theme=onedark" alt="ashen-ix's github stats">
+  <br><br>
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ashen-ix&amp;theme=dark&amp;hide_border=false"> 
+</td>
+<td width="50%" align="center">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ashen-ix&amp;theme=dark&amp;hide_border=false&amp;no-bg=true&amp;no-frame=true&amp;langs_count=10">
+  </td>
+</tr>
+</tbody></table>
 
 ---
 
