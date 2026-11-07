@@ -1,102 +1,49 @@
-## Learning log
+## Profile snapshot
+
+<div align="center">
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=ashen-ix&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182171953%3Fu%3D48b89f122f0fdd085e94da0c334ab0e4224295ec%26v%3D4" alt="ashen-ix hero visual" />
+  <img src="https://www.gitskins.com/api/section/hero?username=ashen-ix&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182171953%3Fu%3D48b89f122f0fdd085e94da0c334ab0e4224295ec%26v%3D4" alt="ashen-ix hero visual" />
 </p>
 
-**Mohamed aziz kammoun ** · Frontend or full-stack engineer
+<p><b>Frontend or full-stack engineer</b></p>
 
-## Currently learning
+</div>
+
+## About
 
 > Tech enthusiast 
 
-**Learning next**
+- 📍 Based in **ESPRIT**
+- 🏢 Working at **ESPRIT**
+- 👥 **17** followers · **11** following
 
-- Jupyter Notebook
-- Python
-- HTML
+*Small, useful work over vague claims.*
 
-📍 Based in **ESPRIT** · 🏢 Working at **ESPRIT** · 👥 **17** followers · **11** following
-
-## Tools I’m practicing
-
-- **Jupyter Notebook** · 65%
-- **Python** · 10%
-- **HTML** · 9%
-- **JavaScript** · 6%
-- **TypeScript** · 5%
-- **Rust** · 2%
-- **Kotlin** · 2%
-- **CSS** · 1%
-
-## Projects in progress
-
-<details>
-<summary><b>hikma-learn</b> · JavaScript</summary>
-
-A selected project from this GitHub profile.<br/>
-⭐ 5 · 🍴 1
-
-[View repository](https://github.com/ASHEN-IX/hikma-learn)
-</details>
-
-<details>
-<summary><b>SmartBusRFID</b> · JavaScript</summary>
-
-A selected project from this GitHub profile.<br/>
-⭐ 5 · 🍴 3
-
-[View repository](https://github.com/ASHEN-IX/SmartBusRFID)
-</details>
-
-<details>
-<summary><b>Digestible</b> · Python</summary>
-
-Turn your 'Read Later' graveyard into an active audio playlist.<br/>
-⭐ 1 · 🍴 0
-
-[View repository](https://github.com/ASHEN-IX/Digestible)
-</details>
-
-<details>
-<summary><b>RepoRadar</b> · Python</summary>
-
-RepoRadar instantly scans GitHub or local repos, revealing files, folders, languages, frameworks, and main entry points. AI-powered summaries explain the project in plain language, helping developers quickly understand any codebase.<br/>
-⭐ 0 · 🍴 0
-
-[View repository](https://github.com/ASHEN-IX/RepoRadar)
-</details>
-
-<details>
-<summary><b>NetLens</b> · Python</summary>
-
-A selected project from this GitHub profile.<br/>
-⭐ 0 · 🍴 0
-
-[View repository](https://github.com/ASHEN-IX/NetLens)
-</details>
-
-## Progress so far
-
-- **Current streak:** 12 days
-- **Longest streak:** 19 days
-- **Active days:** 222 days
+## Core toolkit
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=ashen-ix&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182171953%3Fu%3D48b89f122f0fdd085e94da0c334ab0e4224295ec%26v%3D4" alt="ashen-ix stats visual" />
+  <img src="https://www.gitskins.com/api/section/stack?username=ashen-ix&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182171953%3Fu%3D48b89f122f0fdd085e94da0c334ab0e4224295ec%26v%3D4" alt="ashen-ix stack visual" />
 </p>
 
-## Learning streak
+## Selected work
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=ashen-ix&theme=zen" alt="ashen-ix contribution activity" />
+  <img src="https://www.gitskins.com/api/section/projects?username=ashen-ix&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182171953%3Fu%3D48b89f122f0fdd085e94da0c334ab0e4224295ec%26v%3D4" alt="ashen-ix projects visual" />
 </p>
 
-## Say hello
+## Let’s connect
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=ashen-ix&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182171953%3Fu%3D48b89f122f0fdd085e94da0c334ab0e4224295ec%26v%3D4" alt="ashen-ix social visual" />
+  <img src="https://www.gitskins.com/api/section/social?username=ashen-ix&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182171953%3Fu%3D48b89f122f0fdd085e94da0c334ab0e4224295ec%26v%3D4" alt="ashen-ix social visual" />
 </p>
 
 <a href="https://github.com/ashen-ix">GitHub</a>
 
+## Activity
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=ashen-ix&theme=satan" alt="ashen-ix contribution activity" />
+</p>
+
+<p align="center"><sub>Mohamed aziz kammoun  · <a href="https://www.gitskins.com/readme-generator?template=community-recruiter-ready-danv">Recruiter-ready</a> template by <a href="https://www.gitskins.com/creators/itzz-shantanu">@itzz-shantanu</a>, a remix of <a href="https://www.gitskins.com/readme-generator?template=recruiter">Recruiter-ready</a> by GitSkins · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
