@@ -1,168 +1,102 @@
-# Hi there! 👋 I'm Mohamed Aziz Kammoun
+## Learning log
 
-<div align="center">
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=ashen-ix&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182171953%3Fu%3D48b89f122f0fdd085e94da0c334ab0e4224295ec%26v%3D4" alt="ashen-ix hero visual" />
+</p>
 
-  **🚀 Full-Stack Developer | 🎨 Creative Designer | 🤖 AI Enthusiast**
+**Mohamed aziz kammoun ** · Frontend or full-stack engineer
 
-  *Building the future, one line of code at a time*
+## Currently learning
 
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9146FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Creative+Problem+Solver;Always+Learning+New+Technologies)
+> Tech enthusiast 
 
-</div>
+**Learning next**
 
----
+- Jupyter Notebook
+- Python
+- HTML
 
-## 🚀 About Me
+📍 Based in **ESPRIT** · 🏢 Working at **ESPRIT** · 👥 **17** followers · **11** following
 
-```javascript
-const developer = {
-    name: "Mohamed Aziz Kammoun",
-    location: "Tunisia 🇹🇳",
-    role: "Full-Stack Developer",
-    code: ["JavaScript", "TypeScript", "Python", "Java", "C"],
-    technologies: {
-        frontEnd: ["React", "HTML5", "CSS3", "Bootstrap", "Next.js", "Vite"],
-        backEnd: ["Node.js", "Django", "NestJS", "Express.js", "Fastify", "Flask"],
-        databases: ["MongoDB", "MySQL", "PostgreSQL", "Firebase"],
-        devOps: ["Docker", "Git", "GitHub", "Linux"],
-        design: ["Adobe Creative Suite", "Figma"],
-        ai_ml: ["TensorFlow", "PyTorch", "HuggingFace", "OpenRouter"],
-        embedded: ["ESP32", "RFID", "Arduino"]
-    },
-    currentlyLearning: "Advanced AI/ML Techniques"
-};
-```
+## Tools I’m practicing
 
----
+- **Jupyter Notebook** · 65%
+- **Python** · 10%
+- **HTML** · 9%
+- **JavaScript** · 6%
+- **TypeScript** · 5%
+- **Rust** · 2%
+- **Kotlin** · 2%
+- **CSS** · 1%
 
-## 📊 GitHub Overview
-<table>
-  <tbody>
-    <tr>
-      <!-- Left Column: Stats & Streak stacked vertically -->
-      <td width="50%" align="center" valign="top">
-        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ashen-ix&amp;show_icons=true&amp;include_all_commits=true&amp;theme=onedark" alt="ashen-ix's github stats" />
-        <br><br>
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ashen-ix&amp;theme=dark&amp;hide_border=false" />
-      </td>
-      <!-- Right Column: Most Used Languages taking up the right side -->
-      <td width="50%" align="center" valign="top">
-        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ashen-ix&amp;theme=dark&amp;hide_border=false&amp;no-bg=true&amp;no-frame=true&amp;langs_count=10" alt="Most Used Languages" />
-      </td>
-    </tr>
-  </tbody>
-</table>
+## Projects in progress
 
----
+<details>
+<summary><b>hikma-learn</b> · JavaScript</summary>
 
-## 🛠️ Tech Stack
+A selected project from this GitHub profile.<br/>
+⭐ 5 · 🍴 1
 
-<div align="center">
+[View repository](https://github.com/ASHEN-IX/hikma-learn)
+</details>
 
-### 💻 Languages
+<details>
+<summary><b>SmartBusRFID</b> · JavaScript</summary>
 
-<img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,c" alt="Languages" />
+A selected project from this GitHub profile.<br/>
+⭐ 5 · 🍴 3
 
-### 🎨 Frontend
+[View repository](https://github.com/ASHEN-IX/SmartBusRFID)
+</details>
 
-<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,nextjs,vite" alt="Frontend Technologies" />
+<details>
+<summary><b>Digestible</b> · Python</summary>
 
-### ⚙️ Backend & Databases
+Turn your 'Read Later' graveyard into an active audio playlist.<br/>
+⭐ 1 · 🍴 0
 
-<img src="https://skillicons.dev/icons?i=nodejs,django,nestjs,express,firebase,mongodb,mysql,postgres" alt="Backend and Databases" />
+[View repository](https://github.com/ASHEN-IX/Digestible)
+</details>
 
-### 🛠️ Tools & DevOps
+<details>
+<summary><b>RepoRadar</b> · Python</summary>
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vercel" alt="Tools and DevOps" />
+RepoRadar instantly scans GitHub or local repos, revealing files, folders, languages, frameworks, and main entry points. AI-powered summaries explain the project in plain language, helping developers quickly understand any codebase.<br/>
+⭐ 0 · 🍴 0
 
-### 🤖 AI/ML & Hardware
+[View repository](https://github.com/ASHEN-IX/RepoRadar)
+</details>
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,arduino,raspberrypi" alt="AI ML and Hardware" />
+<details>
+<summary><b>NetLens</b> · Python</summary>
 
-</div>
+A selected project from this GitHub profile.<br/>
+⭐ 0 · 🍴 0
 
----
+[View repository](https://github.com/ASHEN-IX/NetLens)
+</details>
 
-## 🎯 Current Focus
+## Progress so far
 
-<div align="center">
+- **Current streak:** 12 days
+- **Longest streak:** 19 days
+- **Active days:** 222 days
 
-  <img align="right" height="200" src="https://gifdb.com/images/high/rimuru-tempest-498-x-283-gif-52yjo213ol40t2qm.webp" alt="Rimuru Tempest GIF" />
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=ashen-ix&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182171953%3Fu%3D48b89f122f0fdd085e94da0c334ab0e4224295ec%26v%3D4" alt="ashen-ix stats visual" />
+</p>
 
-</div>
+## Learning streak
 
-- 🔭 Working on **innovative web applications**
-- 🌱 Learning **advanced AI/ML techniques**
-- 👯 Looking to collaborate on **open-source projects**
-- 💬 Ask me about **full-stack development, design, or tech in general**
-- ⚡ Fun fact: **I love creating content and gaming**
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=ashen-ix&theme=zen" alt="ashen-ix contribution activity" />
+</p>
 
-<br clear="both">
+## Say hello
 
----
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=ashen-ix&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182171953%3Fu%3D48b89f122f0fdd085e94da0c334ab0e4224295ec%26v%3D4" alt="ashen-ix social visual" />
+</p>
 
-## 🏆 Profile Summary
+<a href="https://github.com/ashen-ix">GitHub</a>
 
-<div align="center">
-
-  <img src="./profile-summary-card-output/2077/0-profile-details.svg" alt="Profile Details" />
-
-  <br />
-
-  <img src="./profile-summary-card-output/2077/1-repos-per-language.svg" alt="Repositories Per Language" width="48%" />
-  <img src="./profile-summary-card-output/2077/2-most-commit-language.svg" alt="Most Commit Language" width="48%" />
-
-  <br />
-
-  <img src="./profile-summary-card-output/2077/3-stats.svg" alt="Statistics" width="48%" />
-  <img src="./profile-summary-card-output/2077/4-productive-time.svg" alt="Productive Time" width="48%" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ASHEN-IX&theme=dark" alt="GitHub Activity Graph" />
-
-</div>
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-  [![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://instagram.com/med.aziz.kammoun)
-
-  [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:kammounaziz12@gmail.com)
-
-  [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/mohamed-aziz-kammoun-6424ba195/)
-
-</div>
-
----
-
-## 🧑‍💻 Profile Views
-
-<div align="center">
-
-  <img src="https://komarev.com/ghpvc/?username=ASHEN-IX&label=PROFILE+VIEWS&color=blueviolet&style=flat-square&theme=dark" alt="Profile Views" />
-
-</div>
-
----
-
-<div align="center">
-
-  ### ⭐ "Code is like humor. When you have to explain it, it's bad." — Cory House
-
-  **Thanks for visiting! Don't forget to ⭐ some repositories if you find them interesting.**
-
-  <br />
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
-
-</div>
