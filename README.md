@@ -1,49 +1,169 @@
-## Profile snapshot
-
 <div align="center">
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=ashen-ix&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182171953%3Fu%3D48b89f122f0fdd085e94da0c334ab0e4224295ec%26v%3D4" alt="ashen-ix hero visual" />
-</p>
+<!-- Animated Living Identity Banner -->
+<!---->
 
-<p><b>Frontend or full-stack engineer</b></p>
+<br/>
+
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&random=false&width=750&height=60&lines=Hi!+I'm+ashen-ix+%F0%9F%91%8B" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=ashen-ix&label=PLAYER+VIEWS&color=00FF41&style=for-the-badge&labelColor=0D1117" alt="views"/>
+<img src="https://img.shields.io/github/followers/ashen-ix?label=ALLIES&style=for-the-badge&color=00F0FF&labelColor=0D1117&logo=github" alt="followers"/>
+<img src="https://img.shields.io/github/stars/ashen-ix?label=LOOT&style=for-the-badge&color=FF00E5&labelColor=0D1117&logo=github" alt="stars"/>
 
 </div>
 
-## About
+---
 
-> Tech enthusiast 
+## 🐱 About Me
 
-- 📍 Based in **ESPRIT**
-- 🏢 Working at **ESPRIT**
-- 👥 **17** followers · **11** following
+<div align="center">
 
-*Small, useful work over vague claims.*
+<!---->
 
-## Core toolkit
+</div>
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=ashen-ix&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182171953%3Fu%3D48b89f122f0fdd085e94da0c334ab0e4224295ec%26v%3D4" alt="ashen-ix stack visual" />
-</p>
 
-## Selected work
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/projects?username=ashen-ix&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182171953%3Fu%3D48b89f122f0fdd085e94da0c334ab0e4224295ec%26v%3D4" alt="ashen-ix projects visual" />
-</p>
+## ⚔️ `> cat inventory.txt` — Skill Tree
 
-## Let’s connect
+<div align="center">
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=ashen-ix&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182171953%3Fu%3D48b89f122f0fdd085e94da0c334ab0e4224295ec%26v%3D4" alt="ashen-ix social visual" />
-</p>
+**🧠 Languages**
 
-<a href="https://github.com/ashen-ix">GitHub</a>
+<img src="https://skillicons.dev/icons?i=py,c,java,js,html,css,r&theme=dark" />
 
-## Activity
+**🌐 Frameworks & Libraries**
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=ashen-ix&theme=satan" alt="ashen-ix contribution activity" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,flask,django,nodejs,tailwind,bootstrap&theme=dark" />
 
-<p align="center"><sub>Mohamed aziz kammoun  · <a href="https://www.gitskins.com/readme-generator?template=community-recruiter-ready-danv">Recruiter-ready</a> template by <a href="https://www.gitskins.com/creators/itzz-shantanu">@itzz-shantanu</a>, a remix of <a href="https://www.gitskins.com/readme-generator?template=recruiter">Recruiter-ready</a> by GitSkins · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<em>✏️ The tools you reach for, in a sentence.</em>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+
+**🗄️ Databases & DevOps**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,linux,docker,vscode&theme=dark" />
+
+**🧩 DSA & Problem Solving**
+
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+
+</div>
+
+---
+
+## 📊 `> ./stats --player=ashen-ix`
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ashen-ix&show_icons=true&hide_border=false&bg_color=0D1117&title_color=00FF41&icon_color=00F0FF&text_color=C9D1D9&border_color=00FF41&ring_color=FF00E5&include_all_commits=true&count_private=true&custom_title=%F0%9F%8E%AE%20PLAYER%20STATS" />
+<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ashen-ix&layout=compact&hide_border=false&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&border_color=00F0FF&langs_count=8&custom_title=%E2%9A%94%EF%B8%8F%20WEAPON%20MASTERY" />
+
+<img src="https://streak-stats.demolab.com?user=ashen-ix&theme=dark&background=0D1117&border=00FF41&ring=FF00E5&fire=FF00E5&currStreakNum=00FF41&sideNums=00F0FF&currStreakLabel=00F0FF&sideLabels=C9D1D9&dates=8B949E&stroke=00FF41" />
+
+</div>
+
+---
+
+## 🏆 `> unlock --achievements`
+
+<div align="center">
+
+<img src="https://github-trophies.vercel.app/?username=ashen-ix&theme=matrix&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" />
+
+</div>
+
+---
+
+## 📈 `> tail -f /var/log/commits.log`
+
+<div align="center">
+
+<!---->
+
+</div>
+
+---
+
+## 🐍 `> ./snake.exe --eat=contributions`
+
+<div align="center">
+
+<!---->
+
+</div>
+
+---
+
+## 🎯 `> cat current_quests.log`
+
+```diff
++ [ACTIVE]    🚀 Building: Data Science & ML Projects
++ [ACTIVE]    📚 Learning: AI/ML, Deep Learning, React
++ [ACTIVE]    💻 Grinding: DSA & Competitive Programming
+! [PENDING]   📊 Goal: Publish research in Data Science
+! [PENDING]   🌐 Shipping: Full-stack data-driven web apps
+- [LOCKED]    👑 Boss Fight: Land a dream role in Data Science / AI
+```
+
+<div align="center">
+
+| 🕹️ Stat | ▰▰▰▰▰▰▰▰▱▱ | Level |
+|:--|:--|:--|
+| 🐍 Python | `████████░░` | **80%** |
+| 📊 Data Science | `███████░░░` | **70%** |
+| 🧠 AI / ML | `██████░░░░` | **60%** |
+| ⚛️ React | `██████░░░░` | **60%** |
+| 🏗️ DSA | `███████░░░` | **70%** |
+| ☕ Caffeine | `██████████` | **MAX** |
+
+</div>
+
+---
+
+## 🎧 `> now_playing --mode=focus`
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/♪_Lo--Fi_/_Synthwave_/_Focus_Beats-0D1117?style=for-the-badge&logo=spotify&logoColor=00FF41&labelColor=0D1117&color=00FF41" />
+
+</div>
+
+---
+
+## 📡 `> ping --connect`
+
+<div align="center">
+
+<a href="https://github.com/ashen-ix"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF&color=00F0FF" /></a>
+<a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41&color=00FF41" /></a>
+<a href="https://www.linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&color=0A66C2" /></a>
+<a href="https://www.instagram.com/not_avi_20/"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F&color=E4405F" /></a>
+
+<br/><br/>
+
+```bash
+$ echo "There is no spoon. Only data." | lolcat
+$ python3 -c "print('Hello, World! 🧠')"
+$ exit 0   # GAME OVER? Nah — INSERT COIN TO CONTINUE 🪙
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=140&section=footer&text=INSERT%20COIN%20TO%20CONTINUE&fontSize=26&fontColor=00FF41&animation=twinkling&fontAlignY=68" width="100%"/>
+
+</div>
+
+<!-- badge-auto: badge-pr-1 pr1 -->
