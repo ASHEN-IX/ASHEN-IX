@@ -1,169 +1,124 @@
 <div align="center">
 
-<!-- Animated Living Identity Banner -->
-<!---->
+<!-- ASHEN-IX / profile README -->
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0D1117,50:103A3A,100:00D4AA&text=MOHAMED%20AZIZ%20KAMMOUN&fontColor=F0F6FC&fontSize=32&fontAlignY=39&desc=Software%20Engineering%20%7C%20Full-Stack%20%7C%20Open%20Source&descAlignY=62&descSize=15" width="100%" alt="Mohamed Aziz Kammoun — Software Engineering, Full-Stack, Open Source" />
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2600&pause=1100&color=00D4AA&center=true&vCenter=true&width=720&height=35&lines=%3E+Building+tools+that+solve+real+problems;%3E+Designing+systems%2C+not+just+screens;%3E+Open+source+%7C+Linux+%7C+Applied+AI" alt="Building tools that solve real problems" /></a>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&random=false&width=750&height=60&lines=Hi!+I'm+ashen-ix+%F0%9F%91%8B" alt="Typing SVG" />
-</a>
+<br />
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=ashen-ix&label=PLAYER+VIEWS&color=00FF41&style=for-the-badge&labelColor=0D1117" alt="views"/>
-<img src="https://img.shields.io/github/followers/ashen-ix?label=ALLIES&style=for-the-badge&color=00F0FF&labelColor=0D1117&logo=github" alt="followers"/>
-<img src="https://img.shields.io/github/stars/ashen-ix?label=LOOT&style=for-the-badge&color=FF00E5&labelColor=0D1117&logo=github" alt="stars"/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D4AA?style=for-the-badge&logo=vercel&logoColor=0D1117)](https://mohamedazizkammoun.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-ASHEN--IX-171B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ASHEN-IX)
+[![Open Source](https://img.shields.io/badge/Open%20Source-Contributions-123F3C?style=for-the-badge&logo=opensourceinitiative&logoColor=00D4AA)](https://github.com/ASHEN-IX?tab=repositories)
 
 </div>
+
+## `> whoami`
+
+I'm **Mohamed Aziz Kammoun**, an **Internet of Systems and Services Engineering student at ESPRIT, Tunisia**, and a full-stack developer interested in the engineering behind dependable software.
+
+I work across **web applications, backend services, desktop tooling, and applied AI**. My approach is to start with the problem, design the boundaries, implement the critical paths, and validate the result through tests and practical deployment constraints.
+
+**Focus:** Software architecture · Developer experience · Distributed systems · Open source
 
 ---
 
-## 🐱 About Me
+## `> ls ./selected-work`
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<!---->
+### 🦀 [Codex Dock](https://github.com/ASHEN-IX/codex-dock)
 
-</div>
+**Open-source desktop developer tool**
 
+Manage multiple Codex accounts with isolated profiles, shared chat history, per-account usage visibility, and Linux desktop packaging.
 
+`Rust` `Tauri` `SQLite` `Linux` `CI`
 
-## ⚔️ `> cat inventory.txt` — Skill Tree
+[Explore repository](https://github.com/ASHEN-IX/codex-dock) · [Installation guide](https://github.com/ASHEN-IX/codex-dock/blob/main/packaging/INSTALL.md)
 
-<div align="center">
+</td>
+<td width="50%" valign="top">
 
-**🧠 Languages**
+### 🚌 [SmartBus RFID](https://github.com/ASHEN-IX/SmartBusRFID)
 
-<img src="https://skillicons.dev/icons?i=py,c,java,js,html,css,r&theme=dark" />
+**Full-stack transit administration demo**
 
-**🌐 Frameworks & Libraries**
+A web-based dashboard and API for managing RFID transit cards, transaction records, authentication, and role-based operations.
 
-<img src="https://skillicons.dev/icons?i=react,flask,django,nodejs,tailwind,bootstrap&theme=dark" />
+`React` `Node.js` `Express` `MariaDB`
 
-<em>✏️ The tools you reach for, in a sentence.</em>
+[Explore repository](https://github.com/ASHEN-IX/SmartBusRFID)
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</td>
+</tr>
+</table>
 
-**🗄️ Databases & DevOps**
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,linux,docker,vscode&theme=dark" />
-
-**🧩 DSA & Problem Solving**
-
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-
-</div>
+<sub>Selected work is linked to public repositories. Project scope and readiness are documented in each repository.</sub>
 
 ---
 
-## 📊 `> ./stats --player=ashen-ix`
+## `> cat engineering-stack.yml`
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ashen-ix&show_icons=true&hide_border=false&bg_color=0D1117&title_color=00FF41&icon_color=00F0FF&text_color=C9D1D9&border_color=00FF41&ring_color=FF00E5&include_all_commits=true&count_private=true&custom_title=%F0%9F%8E%AE%20PLAYER%20STATS" />
-<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ashen-ix&layout=compact&hide_border=false&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&border_color=00F0FF&langs_count=8&custom_title=%E2%9A%94%EF%B8%8F%20WEAPON%20MASTERY" />
+**Languages**
 
-<img src="https://streak-stats.demolab.com?user=ashen-ix&theme=dark&background=0D1117&border=00FF41&ring=FF00E5&fire=FF00E5&currStreakNum=00FF41&sideNums=00F0FF&currStreakLabel=00F0FF&sideLabels=C9D1D9&dates=8B949E&stroke=00FF41" />
+<img src="https://skillicons.dev/icons?i=ts,js,py,rust,java&theme=dark" alt="TypeScript, JavaScript, Python, Rust, Java" />
 
-</div>
+**Application development**
 
----
+<img src="https://skillicons.dev/icons?i=nextjs,react,nestjs,nodejs,fastapi,tailwind,tauri&theme=dark" alt="Next.js, React, NestJS, Node.js, FastAPI, Tailwind CSS, Tauri" />
 
-## 🏆 `> unlock --achievements`
+**Data & infrastructure**
 
-<div align="center">
-
-<img src="https://github-trophies.vercel.app/?username=ashen-ix&theme=matrix&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,linux,git,githubactions&theme=dark" alt="PostgreSQL, MongoDB, Redis, Docker, Linux, Git, GitHub Actions" />
 
 </div>
 
----
+**Also working with:** RabbitMQ · SQLite · Prisma · pnpm workspaces · automated testing
 
-## 📈 `> tail -f /var/log/commits.log`
-
-<div align="center">
-
-<!---->
-
-</div>
+**Engineering interests:** API design · modular architecture · event-driven systems · security · CI/CD · observability
 
 ---
 
-## 🐍 `> ./snake.exe --eat=contributions`
-
-<div align="center">
-
-<!---->
-
-</div>
-
----
-
-## 🎯 `> cat current_quests.log`
+## `> cat /var/log/current-focus.log`
 
 ```diff
-+ [ACTIVE]    🚀 Building: Data Science & ML Projects
-+ [ACTIVE]    📚 Learning: AI/ML, Deep Learning, React
-+ [ACTIVE]    💻 Grinding: DSA & Competitive Programming
-! [PENDING]   📊 Goal: Publish research in Data Science
-! [PENDING]   🌐 Shipping: Full-stack data-driven web apps
-- [LOCKED]    👑 Boss Fight: Land a dream role in Data Science / AI
++ BUILDING   Open-source developer tools and their release workflows
++ DESIGNING  Full-stack systems with clear module and service boundaries
++ EXPLORING Practical AI integration, evaluation, and operational trade-offs
+~ LEARNING  Cross-platform development and observability
 ```
 
-<div align="center">
-
-| 🕹️ Stat | ▰▰▰▰▰▰▰▰▱▱ | Level |
-|:--|:--|:--|
-| 🐍 Python | `████████░░` | **80%** |
-| 📊 Data Science | `███████░░░` | **70%** |
-| 🧠 AI / ML | `██████░░░░` | **60%** |
-| ⚛️ React | `██████░░░░` | **60%** |
-| 🏗️ DSA | `███████░░░` | **70%** |
-| ☕ Caffeine | `██████████` | **MAX** |
-
-</div>
+My work also includes ongoing explorations in **education technology** and **technology for artisan communities**. I keep prototype status separate from deployed functionality.
 
 ---
 
-## 🎧 `> now_playing --mode=focus`
+## `> cat principles.md`
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/♪_Lo--Fi_/_Synthwave_/_Focus_Beats-0D1117?style=for-the-badge&logo=spotify&logoColor=00FF41&labelColor=0D1117&color=00FF41" />
-
-</div>
+```text
+01  Solve a real problem before choosing a stack.
+02  Optimize for clarity, maintainability, and security.
+03  Test important behavior, not just the happy path.
+04  Document trade-offs and unfinished work explicitly.
+05  Ship, measure, iterate.
+```
 
 ---
 
-## 📡 `> ping --connect`
+## `> ping --connect`
+
+Open to **software engineering internships, open-source contributions, and engineering collaborations**.
 
 <div align="center">
 
-<a href="https://github.com/ashen-ix"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF&color=00F0FF" /></a>
-<a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41&color=00FF41" /></a>
-<a href="https://www.linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&color=0A66C2" /></a>
-<a href="https://www.instagram.com/not_avi_20/"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F&color=E4405F" /></a>
+[![View my work](https://img.shields.io/badge/Explore%20Repositories-0D1117?style=for-the-badge&logo=github&logoColor=00D4AA)](https://github.com/ASHEN-IX?tab=repositories)
+[![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00D4AA)](https://mohamedazizkammoun.vercel.app)
 
-<br/><br/>
-
-```bash
-$ echo "There is no spoon. Only data." | lolcat
-$ python3 -c "print('Hello, World! 🧠')"
-$ exit 0   # GAME OVER? Nah — INSERT COIN TO CONTINUE 🪙
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=140&section=footer&text=INSERT%20COIN%20TO%20CONTINUE&fontSize=26&fontColor=00FF41&animation=twinkling&fontAlignY=68" width="100%"/>
+<sub><code>ashen-ix@github:~$</code> building, testing, improving. 🦀</sub>
 
 </div>
-
-<!-- badge-auto: badge-pr-1 pr1 -->
